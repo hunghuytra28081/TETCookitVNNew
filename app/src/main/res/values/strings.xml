@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">TET Cookit VN</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string name="first_slide_title">Món Ăn Ngày Tết</string>
+    <string name="second_slide_title">Ca Dao Tục Ngữ</string>
+    <string name="third_slide_title">Lời Chúc Tết</string>
+    <string name="fourth_slide_title">Chuyện Ngày Tết</string>
+
+    <string name="first_slide_desc">Bạn có thể học công thức các món ăn ngày tết. Không gì ấm áp hơn khi cả gia đình sum vầy ăn món ăn của bạn nấu</string>
+    <string name="second_slide_desc">Chứa đựng những tinh hoa xưa của ông bà ta để lại, gắn liền tuổi thở của mỗi con người Việt Nam</string>
+    <string name="third_slide_desc">Giúp bạn nhanh chóng lựa cho mình những lời chúc tết hay ho và đầy ý nghĩa gởi đến mọi người</string>
+    <string name="fourth_slide_desc">Những câu chuyện buồn vui sẽ giúp bạn có những cảm xúc chỉ có Tết Việt Nam mới mang lại</string>
+
+    <string name="skip_btn">Bỏ Qua</string>
+    <string name="next_btn">Tiếp</string>
+    <string name="let_get_started">Bắt Đầu</string>
+
+
+    <!--    LoginSignup-->
+    <string name="retailer_tag_line">Một cái tết ấm no sum vầy bên người thân của bạn là niềm hạnh phúc của chúng tôi</string>
+    <string name="signup">Đăng Kí</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="retailer_heading">Tet Cookit</string>
+    <string name="create_acount">Đăng Kí \n Tài Khoản</string>
+    <string name="how_we_word">Chúng tôi làm việc như thế nào</string>
+    <string name="create_acc">Tạo Tài Khoản </string>
+    <string name="remember_me">Nhớ Mật Khẩu</string>
+    <string name="forget_password">Quên Mật Khẩu?</string>
+
+    <!--    Login-->
+    <string name="username">Tên Đăng Nhập</string>
+    <string name="password">Mật khẩu</string>
+
+    <!--    Register-->
+    <string name="fullname">Họ Tên</string>
+    <string name="email">E-Mail</string>
+    <string name="phone">Số Điện Thoại</string>
+    <string name="re_password">Nhập Lại Mật Khẩu</string>
+
+
+    <!--    OTP Screen-->
+    <string name="otp_code_text">Mã Số</string>
+    <string name="otp_verification_text">Xác Minh</string>
+    <string name="otp_description_text">Mã Số</string>
+    <string name="verify_code">Xác Nhận Mã</string>
+
+</resources>
